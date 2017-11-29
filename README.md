@@ -1,0 +1,1 @@
+This is Scott's first git project. We are going to learn to code, baby. Wooo!
